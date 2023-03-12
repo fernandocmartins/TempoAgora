@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tempo-agora",
+    "slug": "tempo-agora",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
